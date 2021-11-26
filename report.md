@@ -7,12 +7,12 @@
 На тестирование затрачено: 5 часов
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/SvetlanaZakharchenko/1.-Java-Money-Transfer/issues/1
+* [При пополнении счёта, баланс клиента уходит в "минус"](https://github.com/SvetlanaZakharchenko/1.-Java-Money-Transfer/issues/1)
 
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:
+В качестве тестовых данных использовалось [Домашнее задание к занятию «1. Введение в Java»](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:)
 * currentBalance = 2_000_000_000;
 * transferAmount = 500000000;
 * totalSum = 2 500 000 000;
